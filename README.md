@@ -14,3 +14,8 @@
   - Go Variables
   - [Go by Example: Variables](https://github.com/thanhlt-1007/gobyexample.com_variables)
   - [w3schools: Go variables](https://github.com/thanhlt-1007/w3schools.com_go_variables)
+
+- Data Types
+  - Tour of Go: types
+  - [Golang by Example: Go types with examples](https://github.com/thanhlt-1007/golangbyexample.com_all_data_types_in_golang_with_examples)
+  - [w3schools: Go Data Types](https://github.com/thanhlt-1007/w3schools.com_go_data_types)
