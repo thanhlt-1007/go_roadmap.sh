@@ -19,3 +19,9 @@
   - Tour of Go: types
   - [Golang by Example: Go types with examples](https://github.com/thanhlt-1007/golangbyexample.com_all_data_types_in_golang_with_examples)
   - [w3schools: Go Data Types](https://github.com/thanhlt-1007/w3schools.com_go_data_types)
+
+- For Loop
+  - For Loop in Golang
+  - Effective Go: For loop
+  - [Go by Example: For loop](https://github.com/thanhlt-1007/gobyexample.com_for)
+  - [5 Basic for Loop Patterns](https://github.com/thanhlt-1007/yourbasic.org_golang_for_loop)
