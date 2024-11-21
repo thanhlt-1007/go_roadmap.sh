@@ -25,3 +25,8 @@
   - Effective Go: For loop
   - [Go by Example: For loop](https://github.com/thanhlt-1007/gobyexample.com_for)
   - [5 Basic for Loop Patterns](https://github.com/thanhlt-1007/yourbasic.org_golang_for_loop)
+
+- Range
+  - Go Ranges
+  - [Go by Example: Range](https://github.com/thanhlt-1007/gobyexample.com_range)
+  - [Go ranges basic patterns](https://github.com/thanhlt-1007/yourbasic.org_golang_for_loop_range_array_slice_map_channel)
